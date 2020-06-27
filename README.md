@@ -45,4 +45,4 @@ The title on the browser tab should update to show the number of incomplete task
 
 #### UML
 
-- ![UML24](https://github.com/sueduclos-401-advanced-javascript/lab-26/blob/master/assets/lab-26-uml.png)
+- ![UML26](https://github.com/sueduclos-401-advanced-javascript/lab-26/blob/master/assets/lab-26-uml.png)
